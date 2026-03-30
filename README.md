@@ -48,5 +48,7 @@ Student Inżynierii i Bezpieczeństwa Sieci Komputerowych
 <img width="1873" height="1025" alt="obraz" src="https://github.com/user-attachments/assets/55ddeae7-1535-4e77-af4b-b5b2f34654c6" />
 <img width="781" height="379" alt="obraz" src="https://github.com/user-attachments/assets/b5b31c37-3b78-4bd6-ba4b-0050fcfdf265" />
 <img width="862" height="289" alt="obraz" src="https://github.com/user-attachments/assets/699419bf-1794-4077-971c-2918013dfebb" />
+<img width="1862" height="940" alt="obraz" src="https://github.com/user-attachments/assets/34609e26-a638-4d25-a90b-cee3ce296660" />
+
 
 
