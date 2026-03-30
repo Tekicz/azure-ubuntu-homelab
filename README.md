@@ -1,6 +1,6 @@
 # ☁️ Azure Cloud Home Lab: Web & Voice Services Infrastructure
 **Live Demo / Dostęp do usług:**
-* 🌐 **Web Server (Nginx):** `https://20.199.104.24`
+* 🌐 **Web Server (Nginx):** `http://20.199.104.24`
 * 📁 **Filebrowser:** `http://20.199.104.24:8080`
 * 🎙️ **TeamSpeak 3:** `20.199.104.24` (Port 9987)
 
